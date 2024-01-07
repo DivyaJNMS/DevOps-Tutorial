@@ -15,15 +15,15 @@ To install Git on a Linux system, follow these steps:
 1. Open a terminal.
 2. Update the package list by running:
 
-```
+``````````````
 sudo apt update
-```
+``````````````
 3. Install Git with the following command:
 
 
-```
+```````````````````
 sudo apt install git
-```
+```````````````````
 
 4. Verify the installation by checking the Git version:
 
